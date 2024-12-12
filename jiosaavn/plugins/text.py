@@ -28,9 +28,9 @@ class TEXT:
 **🤖 Bot Name:** [🤖 {me.username}](https://t.me/{me.username})
 **📝 Language:** [Python 3](https://www.python.org/)
 **🧰 Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
-**👑 Maintained By:** [RangoZex](https://t.me/RangoZex)
-**📢 Updates Channel:** [NS Bots](https://t.me/NsBotsOfficial)
+**👨‍💻 Developer:** [Anonymous Developer](https://t.me/Anonymousdeveloper098)
+**👑 Maintained By:** [Anonymous Developer](https://t.me/Anonymousdeveloper098)
+**📢 Updates Channel:** [MOVIES UPDATES](https://t.me/MoviesUpdate_07)
 **👥 Support Group:** [AMC Support](https://t.me/amcDevSupport)
 **🔗 Source Code:** [GitHub Repository](https://github.com/Ns-AnoNymouS/jiosaavn)
 </blockquote>
