@@ -30,9 +30,9 @@ class TEXT:
 **🧰 Framework:** [Pyrogram](https://github.com/pyrogram/pyrogram)
 **👨‍💻 Developer:** [Anonymous Developer](https://t.me/Anonymousdeveloper098)
 **👑 Maintained By:** [Anonymous Developer](https://t.me/Anonymousdeveloper098)
-**📢 Updates Channel:** [MOVIES UPDATES](https://t.me/MoviesUpdate_07)
-**👥 Support Group:** [AMC Support](https://t.me/amcDevSupport)
-**🔗 Source Code:** [GitHub Repository](https://github.com/Ns-AnoNymouS/jiosaavn)
+**📢 Updates Channel:** [Movies Updates](https://t.me/MoviesUpdate_07)
+**👥 Support Group:** [Movies Updates Support](https://t.me/MoviesUpdate_chat)
+**🔗 Other Bots:** [Link](https://t.me/MoviesUpdate_07/292)
 </blockquote>
 """
 
