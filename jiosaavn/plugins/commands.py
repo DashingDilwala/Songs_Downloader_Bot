@@ -30,11 +30,11 @@ async def start(c, m):
     msg = m.message if getattr(m, "data", None) else await m.reply("**Processing....⌛**", quote=True)
     try:
         buttons = [
-            [InlineKeyboardButton('Owner 🧑', url='https://t.me/Ns_AnoNymous'),
+            [InlineKeyboardButton('Owner 🧑', url='https://t.me/Anonymousdeveloper098'),
              InlineKeyboardButton('About 📕', callback_data='about')],
             [InlineKeyboardButton('Help 💡', callback_data='help'),
              InlineKeyboardButton('Settings ⚙', callback_data='settings')],
-            [InlineKeyboardButton('Open Source Repository 🌐', url='https://github.com/Ns-AnoNymouS/jiosaavn')],
+            [InlineKeyboardButton('Our Updates Channel 🌐', url='https://t.me/MoviesUpdate_07')],
             [InlineKeyboardButton('Close ❌', callback_data='close')]
         ]
         await msg.edit(
